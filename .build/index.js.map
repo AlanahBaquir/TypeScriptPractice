@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../index.ts"],
+  "sourcesContent": ["for (let i: number = 0; i < 5; ++i) {\n  let line: string = \"\";\n  for(let j: number = 0; j <= i; ++j) {\n    line += \"*\";\n  }\n  console.log(line);\n}"],
+  "mappings": "AAAA,SAAS,IAAY,GAAG,IAAI,GAAG,EAAE,GAAG;AAClC,MAAI,OAAe;AACnB,WAAQ,IAAY,GAAG,KAAK,GAAG,EAAE,GAAG;AAClC,YAAQ;AAAA;AAEV,UAAQ,IAAI;AAAA;",
+  "names": []
+}
