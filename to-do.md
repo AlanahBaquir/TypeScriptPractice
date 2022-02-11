@@ -62,4 +62,4 @@ First, install **Bootstrap** *(for Angular, not the native)* and **Angular Mater
       - submit (button)
       - close (button) - should close the entire dialog.
 
-![Add Student Dialog] (https://share.balsamiq.com/c/knQghQ2FnnmN45g3GGUkcR.png)
+![Add Student Dialog](https://share.balsamiq.com/c/knQghQ2FnnmN45g3GGUkcR.png)
